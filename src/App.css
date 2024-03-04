@@ -64,9 +64,11 @@ body {
   }
 
 .form {
+  display: block;
     flex-direction: column; /* Stack form inputs vertically */
 /* // make the spacing betwwn box list-style-position: ; */
-padding: 5px; 
+padding: 2px; 
+gap: 5px;
 
   }
 .add{

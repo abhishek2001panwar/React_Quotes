@@ -18,7 +18,7 @@ function Card({users, HandleRemove, id}) {
             {users.Quotes}
           </h2>
           <button onClick={()=>HandleRemove(id)} className="px-3 outline-none py-1 mt-2  rounded-full bg-red-600 text-white text-xs font-semibold">
-            Remove Blog
+            Remove Quote
           </button>
         </div>
       </div>

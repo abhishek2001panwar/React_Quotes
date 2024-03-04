@@ -17,7 +17,7 @@ function Form({handleSubmitFormData ,key }) {
       
       <div className="absolute top-[90%] left-1/2 flex gap-10 w-full m-9 p-4  -translate-x-[50%] -translate-y-[50%]">
       <h1 className="absolute add hover:scale-125 delay-100	 ease-in-out top-[-80%] left-[40%] text-2xl border-b-grey scale-1.05s ">Add Quotes</h1>
-        <form className="flex form  gap-10" onSubmit={handleSubmit(handleFormSubmit)}>
+        <form className="flex form gap-10" onSubmit={handleSubmit(handleFormSubmit)}>
         <input
           className="px-5 py-2 outline-none rounded-md"
           placeholder="name"  {...register('name')}
