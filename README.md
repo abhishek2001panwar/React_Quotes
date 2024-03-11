@@ -59,4 +59,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <ABHISHEK><abhishek.panwar.cseiot.2022@miet.ac.in>
 
-Project Link: [https://github.com/abhishek2001panwar/quotes-app](https://github.com/abhishek2001panwar/quotes-app)
+Project Link: [https://react-quotes-rho.vercel.app/](https://react-quotes-rho.vercel.app/)
